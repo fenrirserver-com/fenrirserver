@@ -1,0 +1,5 @@
+//fenrirmachine
+
+userid: Yzd
+passwd: princess21
+char_ip: 

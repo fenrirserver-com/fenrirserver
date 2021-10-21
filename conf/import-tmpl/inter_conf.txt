@@ -1,0 +1,8 @@
+//fenrirmachine
+
+//use_sql_db: yes
+login_server_pw: princess21
+ipban_db_pw: princess21
+char_server_pw: princess21
+map_server_pw: princess21
+log_db_pw: princess21
